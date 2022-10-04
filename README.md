@@ -24,13 +24,13 @@ You can click the Preview link to take a look at your changes.
 ### :woman_technologist: About Me :
 
 - :telescope: I’m an Education Engineer contributing to documentation, code examples, and example applications for Realm Database.
-  Most of the time, you'll find me working on the [Realm Swift SDK](https://www.mongodb.com/docs/realm/sdk/swift/) and [MongoDB Realm Cloud](https://www.mongodb.com/docs/realm/cloud/) docs.
+  Most of the time, you'll find me working on the [Realm Swift SDK](https://www.mongodb.com/docs/realm/sdk/swift/) and [Atlas App Services](https://www.mongodb.com/docs/atlas/app-services/) docs.
 
 - :iphone: My current iOS development project is [Shattered Ring](https://shatteredring.com)
 
 - 🌱 I’m currently learning **SwiftUI, macOS**
 
-- 📝 I regularly write articles on [dacharycarey.com](dacharycarey.com)
+- 📝 I sometimes write articles on [dacharycarey.com](dacharycarey.com)
 
 - 💬 Ask me about **Realm Swift SDK, writing docs, brewing good coffee**
 
