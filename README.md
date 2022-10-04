@@ -58,6 +58,6 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dacharyc&theme=radical" alt="dacharyc" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dacharyc&show_icons=true&theme=radical&locale=en" alt="dacharyc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dacharyc&show_icons=true&theme=radical&locale=en" alt="dacharyc" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/top-langs?username=dacharyc&show_icons=true&theme=radical&locale=en&layout=compact" alt="dacharyc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dacharyc&show_icons=true&theme=radical&locale=en&layout=compact" alt="dacharyc" /></p>
