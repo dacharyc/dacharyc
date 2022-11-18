@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/dachary/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/daiquiric">
-    <img src="https://img.shields.io/twitter/follow/daiquiric?logo=twitter&style=for-the-badge" alt="daiquiric" />
+  <a href="https://mstdn.social/@dachary">
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/mastodon.svg" width="40" height="40" alt="dachary">
   </a>
 </div>
 
@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dacharyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dacharyc" height="30" width="40" /></a>
-<a href="https://twitter.com/daiquiric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daiquiric" height="30" width="40" /></a>
+<a href="https://mstdn.social/@dachary" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/mastodon.svg" alt="dachary" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dachary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dachary" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13571214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13571214" height="30" width="40" /></a>
 </p>
