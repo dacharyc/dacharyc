@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 - :telescope: I’m an Education Engineer contributing to documentation, code examples, and example applications for Realm Database.
   Most of the time, you'll find me working on the [Realm Swift SDK](https://www.mongodb.com/docs/realm/sdk/swift/) and [Atlas App Services](https://www.mongodb.com/docs/atlas/app-services/) docs.
 
-- :iphone: My current iOS development project is [Shattered Ring](https://shatteredring.com)
+- :iphone: My current iOS development project is Tell Remmy (website coming soon) and my current macOS development project is Geta (website pending, but you can find [Geta on Mastodon](https://corporaterunaways.social/@geta)).
 
 - 🌱 I’m currently learning **SwiftUI, macOS**
 
