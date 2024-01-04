@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/dachary/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mstdn.social/@dachary">
+  <a href="https://dacharycarey.social/@dachary">
     <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/mastodon.svg" width="40" height="40" alt="dachary">
   </a>
 </div>
@@ -24,24 +24,24 @@ You can click the Preview link to take a look at your changes.
 ### :woman_technologist: About Me :
 
 - :telescope: I’m an Education Engineer contributing to documentation, code examples, and example applications for Realm Database.
-  Most of the time, you'll find me working on the [Realm Swift SDK](https://www.mongodb.com/docs/realm/sdk/swift/) and [Atlas App Services](https://www.mongodb.com/docs/atlas/app-services/) docs.
+  Most of the time, you'll find me working on the [Atlas Device SDK/Realm](https://www.mongodb.com/docs/realm/) and [Atlas App Services](https://www.mongodb.com/docs/atlas/app-services/) docs.
 
-- :iphone: My current iOS development project is Tell Remmy (website coming soon) and my current macOS development project is Geta (website pending, but you can find [Geta on Mastodon](https://corporaterunaways.social/@geta)).
+- :iphone: My current iOS development project is [Future Toot](https://futuretoot.app/) and my current macOS development project is [PR Focus](https://prfocus.app/).
 
 - 🌱 I’m currently learning **SwiftUI, macOS**
 
 - 📝 I sometimes write articles on [dacharycarey.com](dacharycarey.com)
 
-- 💬 Ask me about **Realm Swift SDK, writing docs, brewing good coffee**
+- 💬 Ask me about **iOS/macOS dev, Realm, writing docs, brewing good coffee**
 
 - :zap: In my free time, I like to travel overland, garden, find interesting projects for my 🚜, and play D&D.
 
-- :house_with_garden: I share my home with my husband [masukomi](https://github.com/masukomi), and our two 🐶s and 🐱.
+- :house_with_garden: I share my home with my spouse [masukomi](https://github.com/masukomi), and our two 🐶s and 🐱.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dacharyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dacharyc" height="30" width="40" /></a>
-<a href="https://mstdn.social/@dachary" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/mastodon.svg" alt="dachary" height="30" width="40" /></a>
+<a href="https://dacharycarey.social/@dachary" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/mastodon.svg" alt="dachary" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dachary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dachary" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13571214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13571214" height="30" width="40" /></a>
 </p>
