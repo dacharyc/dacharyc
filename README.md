@@ -23,18 +23,17 @@ You can click the Preview link to take a look at your changes.
 ---
 ### :woman_technologist: About Me :
 
-- :telescope: I’m an Education Engineer contributing to documentation, code examples, and example applications for Realm Database.
-  Most of the time, you'll find me working on the [Atlas Device SDK/Realm](https://www.mongodb.com/docs/realm/) and [Atlas App Services](https://www.mongodb.com/docs/atlas/app-services/) docs.
+- :telescope: I’m an Education Engineer contributing to documentation, code examples, and example applications for MongoDB.
 
-- :iphone: My current iOS development project is [Future Toot](https://futuretoot.app/) and my current macOS development project is [PR Focus](https://prfocus.app/).
+- :iphone: My first iOS app is [Shattered Ring](https://shatteredring.com), and my macOS app is [PR Focus](https://prfocus.app/). Currently working on a very nascent multi-platform app.
 
-- 🌱 I’m currently learning **SwiftUI, macOS**
+- 🌱 My current favorite programming language is **Go**, but I'm learning a little bit of everything for work projects.
 
 - 📝 I sometimes write articles on [dacharycarey.com](dacharycarey.com)
 
-- 💬 Ask me about **iOS/macOS dev, Realm, writing docs, brewing good coffee**
+- 💬 Ask me about **tested code examples in documentation, writing docs, iOS/macOS dev, brewing good coffee**
 
-- :zap: In my free time, I like to travel overland, garden, find interesting projects for my 🚜, and play D&D.
+- :zap: In my free time, I like to travel overland, garden, find interesting projects for my 🚜, and play video games.
 
 - :house_with_garden: I share my home with my spouse [masukomi](https://github.com/masukomi), and our two 🐶s and 🐱.
 
