@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 - :wrench: I build **developer tools, testing frameworks, and documentation infrastructure** that reduce friction and improve code quality at scale.
 
-- :test_tube: I designed a **cross-language testing framework** used across 60+ repositories and 35,000+ code examples—with comparison utilities for Go, Java, Python, C#, JavaScript, and MongoDB Shell.
+- :test_tube: I designed a **cross-language testing framework** used across 40+ docs proejcts and 35,000+ code examples—with comparison utilities for Go, Java, Python, C#, JavaScript, and MongoDB Shell.
 
 - :toolbox: I build **CLI tools in Go** for documentation analysis, semantic diffing, and quality metrics. Check out [tokendiff](https://github.com/dacharyc/tokendiff) for human-readable diff output.
 
