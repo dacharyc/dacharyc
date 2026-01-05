@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Dachary</h1>
-<h3 align="center">An iOS/macOS developer and technical writer in Vermont, USA</h3>
+<h1 align="center">Hi, I'm Dachary</h1>
+<h3 align="center">Developer Experience Engineer | Building tools that help developers succeed</h3>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dachary/">
@@ -21,21 +21,26 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ---
-### :woman_technologist: About Me :
 
-- :telescope: I’m an Education Engineer contributing to documentation, code examples, and example applications for MongoDB.
+### :woman_technologist: About Me
 
-- :iphone: My first iOS app is [Shattered Ring](https://shatteredring.com), and my macOS app is [PR Focus](https://prfocus.app/). Currently working on a very nascent multi-platform app.
+- :wrench: I build **developer tools, testing frameworks, and documentation infrastructure** that reduce friction and improve code quality at scale.
 
-- 🌱 My current favorite programming language is **Go**, but I'm learning a little bit of everything for work projects.
+- :test_tube: I designed a **cross-language testing framework** used across 60+ repositories and 35,000+ code examples—with comparison utilities for Go, Java, Python, C#, JavaScript, and MongoDB Shell.
 
-- 📝 I sometimes write articles on [dacharycarey.com](dacharycarey.com)
+- :toolbox: I build **CLI tools in Go** for documentation analysis, semantic diffing, and quality metrics. Check out [tokendiff](https://github.com/dacharyc/tokendiff) for human-readable diff output.
 
-- 💬 Ask me about **tested code examples in documentation, writing docs, iOS/macOS dev, brewing good coffee**
+- :iphone: In my downtime, I ship **iOS and macOS apps**: [PR Focus](https://prfocus.app/) for managing pull request activity, and [Shattered Ring](https://shatteredring.com) for RPG playthrough tracking.
 
-- :zap: In my free time, I like to travel overland, garden, find interesting projects for my 🚜, and play video games.
+- :seedling: Primary languages: **Go** and **Swift**, plus whatever the problem requires.
 
-- :house_with_garden: I share my home with my spouse [masukomi](https://github.com/masukomi), and our two 🐶s and 🐱.
+- :bulb: Two principles guide my work: **solve real problems** (every tool addresses friction I've experienced) and **help others be effective** (the best infrastructure is invisible).
+
+- :pencil: I occasionally write deep-dives on interesting problems at [dacharycarey.com](https://dacharycarey.com)
+
+- :zap: Outside of code: overland travel, gardening, tractor projects, and video games.
+
+- :house_with_garden: Vermont, USA. I share my home with my spouse [masukomi](https://github.com/masukomi), two dogs, and a cat.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,13 +52,22 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a>
+</p>
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dacharyc&theme=radical" alt="dacharyc" /></p>
 
